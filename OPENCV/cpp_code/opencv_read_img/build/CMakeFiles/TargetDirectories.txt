@@ -1,0 +1,3 @@
+/home/ledi/slam_md40/learn_orbslam/cpp_project_learn/cpp_project_learn/OPENCV/cpp_code/opencv_read_img/build/CMakeFiles/rebuild_cache.dir
+/home/ledi/slam_md40/learn_orbslam/cpp_project_learn/cpp_project_learn/OPENCV/cpp_code/opencv_read_img/build/CMakeFiles/DisplayImage.dir
+/home/ledi/slam_md40/learn_orbslam/cpp_project_learn/cpp_project_learn/OPENCV/cpp_code/opencv_read_img/build/CMakeFiles/edit_cache.dir

@@ -9,7 +9,7 @@ using namespace cv;
 int  main()
 {
 	Mat image;
-	image = imread("church.jpeg");
+	image = imread("../church.jpeg");
 	// vector of keyPoints
 	std::vector<KeyPoint> keyPoints;
 	// construction of the fast feature detector object

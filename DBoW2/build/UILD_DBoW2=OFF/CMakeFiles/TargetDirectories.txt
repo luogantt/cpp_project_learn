@@ -1,8 +1,0 @@
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/install/strip.dir
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/install/local.dir
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/install.dir
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/demo.dir
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/DBoW2.dir
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/edit_cache.dir
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/rebuild_cache.dir
-/home/ledi/slam_md40/learn_orbslam/DBoW2/build/UILD_DBoW2=OFF/CMakeFiles/list_install_components.dir

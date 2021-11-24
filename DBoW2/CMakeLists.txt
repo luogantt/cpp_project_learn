@@ -5,7 +5,7 @@ include(ExternalProject)
 #有时希望在编译代码时只编译一些指定的源码，可以使用cmake的option命令
 #https://blog.csdn.net/whahu1989/article/details/82078563#t8
 option(BUILD_DBoW2   "Build DBoW2"            ON)
-option(BUILD_Demo    "Build demo application" ON)
+option(BUILD_Demo    "Build demo application" OFF)
 
 if(NOT CMAKE_BUILD_TYPE AND NOT CMAKE_CONFIGURATION_TYPES)
   set(CMAKE_BUILD_TYPE Release CACHE STRING "Choose the type of build." FORCE)
@@ -65,7 +65,7 @@ if(BUILD_DBoW2)
   target_include_directories(${PROJECT_NAME} PUBLIC include/DBoW2/ include/)
   #target_link_libraries: 把目标文件与库文件进行链接
   target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
-　#set_target_properties: 设置最终生成的库的名称，还有其它功能，如设置库的版本号等等
+  #set_target_properties: 设置最终生成的库的名称，还有其它功能，如设置库的版本号等等
   set_target_properties(${PROJECT_NAME} PROPERTIES CXX_STANDARD 11)
   message("---编译了BUILD_DBoW2的动态库和静态库---")
 endif(BUILD_DBoW2)

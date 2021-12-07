@@ -1,3 +1,0 @@
-/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/orb2/build/CMakeFiles/rebuild_cache.dir
-/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/orb2/build/CMakeFiles/DisplayImage.dir
-/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/orb2/build/CMakeFiles/edit_cache.dir

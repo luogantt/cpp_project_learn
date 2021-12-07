@@ -31,6 +31,7 @@ int main( int argc, char** argv )
   //-- Step 1: Detect the keypoints using SURF Detector, compute the descriptors
   int minHessian = 400;
   Ptr<SURF> detector = SURF::create();
+  
 
   detector->setHessianThreshold(minHessian);
   std::vector<KeyPoint> keypoints_1, keypoints_2;

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/orb2
+# Install script for directory: /home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/surf2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/orb2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/surf2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

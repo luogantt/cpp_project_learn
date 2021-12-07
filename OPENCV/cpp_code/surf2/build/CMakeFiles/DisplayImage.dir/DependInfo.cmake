@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/orb2/main.cpp" "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/orb2/build/CMakeFiles/DisplayImage.dir/main.cpp.o"
+  "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/surf2/main.cpp" "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/surf2/build/CMakeFiles/DisplayImage.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

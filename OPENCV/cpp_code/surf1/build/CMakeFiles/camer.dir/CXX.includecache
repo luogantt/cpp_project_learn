@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ledi/slam_md40/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/surf1/main.cpp
+opencv2/opencv.hpp
+-
+opencv2/xfeatures2d.hpp
+-
+iostream
+-
+math.h
+-
+string
+-
+fstream
+-
+

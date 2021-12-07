@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ledi/slam_md40/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/feature_fast/fast.cpp" "/home/ledi/slam_md40/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/feature_fast/build/CMakeFiles/DisplayImage.dir/fast.cpp.o"
+  "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/feature_fast/fast.cpp" "/home/ledi/桌面/clion/learn_orbslam/cpp_project_learn/OPENCV/cpp_code/feature_fast/build/CMakeFiles/DisplayImage.dir/fast.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

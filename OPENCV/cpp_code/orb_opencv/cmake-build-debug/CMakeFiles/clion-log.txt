@@ -1,0 +1,19 @@
+/home/ledi/桌面/clion/CLion-2019.3.6+破解/clion-2019.3.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ledi/桌面/clion/makfile_learn/slambook2/ch7/orb_opencv
+-- The C compiler identification is GNU 7.5.0
+-- The CXX compiler identification is GNU 7.5.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenCV: /usr/local (found suitable version "3.4.1", minimum required is "3") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ledi/桌面/clion/makfile_learn/slambook2/ch7/orb_opencv/cmake-build-debug

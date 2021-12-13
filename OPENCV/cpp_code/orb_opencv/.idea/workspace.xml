@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="vo1" targetName="orb_cv" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11835f72-4b6b-46cd-b3fc-01127971bfb7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../3rdparty/Sophus" beforeDir="false" afterPath="$PROJECT_DIR$/../../3rdparty/Sophus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/gaoxiang12/slambook2.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="21VIzHv9wCWlQR2dCIW6eJupO9N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="orb_cv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vo1" TARGET_NAME="orb_cv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="vo1" RUN_TARGET_NAME="orb_cv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11835f72-4b6b-46cd-b3fc-01127971bfb7" name="Default Changelist" comment="" />
+      <created>1638020088539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638020088539</updated>
+      <workItem from="1638020089904" duration="2312000" />
+      <workItem from="1638920349148" duration="599000" />
+      <workItem from="1639312392932" duration="191000" />
+      <workItem from="1639370472904" duration="1910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="70" width="867" height="965" key="CommitChangelistDialog2" timestamp="1639370672492">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="555" y="70" width="867" height="965" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1639370672492" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1639312441543">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1639312441543" />
+    <state width="1799" height="273" key="GridCell.Tab.0.bottom" timestamp="1638057953032">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="273" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1638057953032" />
+    <state width="1799" height="273" key="GridCell.Tab.0.center" timestamp="1638057953032">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="273" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1638057953032" />
+    <state width="1799" height="273" key="GridCell.Tab.0.left" timestamp="1638057953031">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="273" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1638057953031" />
+    <state width="1799" height="273" key="GridCell.Tab.0.right" timestamp="1638057953032">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="273" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1638057953032" />
+    <state x="475" y="187" key="SettingsEditor" timestamp="1638058068165">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1638058068165" />
+    <state x="431" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1639370477613">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="431" y="354" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1639370477613" />
+  </component>
+</project>

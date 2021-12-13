@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ledi/桌面/clion/makfile_learn/slambook2/ch7/orb_opencv/orb_cv1.cpp
+iostream
+-
+openacv2/core/core.hpp
+-
+opencv2
+-
+

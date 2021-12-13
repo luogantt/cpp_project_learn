@@ -1,3 +1,0 @@
-/home/ledi/桌面/clion/makfile_learn/slambook2/ch7/orb_opencv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ledi/桌面/clion/makfile_learn/slambook2/ch7/orb_opencv/cmake-build-debug/CMakeFiles/orb_cv.dir
-/home/ledi/桌面/clion/makfile_learn/slambook2/ch7/orb_opencv/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -31,6 +31,8 @@ int main()
     // get its size:
     file.seekg(0, std::ios::end);
     fileSize = file.tellg();
+
+    //cout<<file[0]<<endl;
     file.seekg(0, std::ios::beg);
     
     bufPtr = malloc(fileSize);
@@ -47,7 +49,15 @@ int main()
 
 
     file.close();
-    
+    /***
+    int i=0;
+    file.read((char *) &bufPtr, sizeof 10);
+
+    for(i = 0; i <5; i++) // show values read from file
+        cout << bufPtr[i] << " ";
+
+    file.close();
+    ***/
     pointNum = fileSize /sizeof(float) / pointDim;
 
     cout<<pointNum<<endl;

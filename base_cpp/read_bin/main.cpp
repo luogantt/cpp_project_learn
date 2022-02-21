@@ -14,9 +14,13 @@ int main()
 {
     // open the file:
     std::streampos fileSize;  //实例化fpos用于表示窄向流中的位置。
+
+    //打开二进制文件
     std::ifstream file("/home/oem/CLionProjects/untitled/a.bin", std::ios::binary);
 
+    //这个指针指向二进制文件的的路径
     void *bufPtr=0;
+    //一个  pillar 的
     int pointNum=30;
 
     int pointDim=5;

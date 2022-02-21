@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oem/Documents/cpp_project_learn/read_bin/main.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+

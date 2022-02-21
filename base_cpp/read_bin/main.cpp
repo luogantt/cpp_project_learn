@@ -14,15 +14,15 @@ int main()
 {
     // open the file:
     std::streampos fileSize;  //实例化fpos用于表示窄向流中的位置。
-
-    //打开二进制文件
     std::ifstream file("/home/oem/CLionProjects/untitled/a.bin", std::ios::binary);
 
-    //这个指针指向二进制文件的的路径
+
+    //指向二进制文件内存的头指针
     void *bufPtr=0;
-    //一个  pillar 的
+    //每个pillar 的点云数量
     int pointNum=30;
 
+    //点云数据的列数，x,y,z,r,其他
     int pointDim=5;
     cout<<"start"<<endl;
 
@@ -33,10 +33,12 @@ int main()
         return false;
     }
     // get its size:
+
+    //把文件的读指针结尾位置向后移前个字节
     file.seekg(0, std::ios::end);
     fileSize = file.tellg();
 
-    //cout<<file[0]<<endl;
+    //把文件的写指针从文件开头向后移 0 个字节
     file.seekg(0, std::ios::beg);
     
     bufPtr = malloc(fileSize);
@@ -53,15 +55,10 @@ int main()
 
 
     file.close();
-    /***
-    int i=0;
-    file.read((char *) &bufPtr, sizeof 10);
 
-    for(i = 0; i <5; i++) // show values read from file
-        cout << bufPtr[i] << " ";
 
-    file.close();
-    ***/
+    cout<<"size="<<fileSize<<endl;
+    
     pointNum = fileSize /sizeof(float) / pointDim;
 
     cout<<pointNum<<endl;

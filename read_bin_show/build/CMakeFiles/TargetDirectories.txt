@@ -1,3 +1,0 @@
-/home/oem/Documents/cpp_project_learn/read_bin/build/CMakeFiles/edit_cache.dir
-/home/oem/Documents/cpp_project_learn/read_bin/build/CMakeFiles/rebuild_cache.dir
-/home/oem/Documents/cpp_project_learn/read_bin/build/CMakeFiles/untitled.dir

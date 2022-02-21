@@ -1,4 +1,4 @@
-"/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/ninja/linux/ninja" -G Ninja /home/oem/Documents/cpp_project_learn/base_cpp/read_bin
+"/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/ninja/linux/ninja" -G Ninja /home/oem/CLionProjects/untitled
 -- The C compiler identification is GNU 9.4.0
 -- The CXX compiler identification is GNU 9.4.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/oem/Documents/cpp_project_learn/base_cpp/read_bin/cmake-build-debug
+-- Build files have been written to: /home/oem/CLionProjects/untitled/cmake-build-debug

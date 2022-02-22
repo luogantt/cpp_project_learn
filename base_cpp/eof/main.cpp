@@ -9,6 +9,7 @@ int main()
 {
     char data;
     ifstream infile;
+    ifstream infile1;
     std::vector<string> classNames;
     infile.open("../my.txt");
 
@@ -18,11 +19,16 @@ int main()
         exit(1);
     }
 
+    while( !infile.eof() )
+    {
+        infile >> data;
+        cout << data <<endl;
+    }
 
-
+    infile1.open("../my.txt");
     vector<string> alpha;
     std::string word;
-    while(infile>> word)
+    while( infile1>> word)
     {
         alpha.push_back(word);
     }
@@ -33,6 +39,7 @@ int main()
     {
         cout << "alpha["<<i <<"]= "<< alpha[i] << endl;
     }
+
 
 
     infile.close();

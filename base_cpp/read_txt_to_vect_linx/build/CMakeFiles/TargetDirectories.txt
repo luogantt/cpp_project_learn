@@ -1,0 +1,3 @@
+/home/oem/Documents/cpp_project_learn/base_cpp/read_txt_to_vect_linx/build/CMakeFiles/edit_cache.dir
+/home/oem/Documents/cpp_project_learn/base_cpp/read_txt_to_vect_linx/build/CMakeFiles/rebuild_cache.dir
+/home/oem/Documents/cpp_project_learn/base_cpp/read_txt_to_vect_linx/build/CMakeFiles/untitled.dir

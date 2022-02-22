@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oem/Documents/cpp_project_learn/base_cpp/read_txt_to_vect_linx/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+

@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/oem/Documents/cpp_project_learn/base_cpp/read_bin/cmake-build-debug/
+cmake_ninja_workdir = /home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/cmake-build-debug/
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/oem/Documents/cpp_project_learn/base_cpp/read_bin/cmake-build-debug && "/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" --regenerate-during-build -S/home/oem/Documents/cpp_project_learn/base_cpp/read_bin -B/home/oem/Documents/cpp_project_learn/base_cpp/read_bin/cmake-build-debug
+  COMMAND = cd /home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/cmake-build-debug && "/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" --regenerate-during-build -S/home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1 -B/home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -57,7 +57,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/oem/Documents/cpp_project_learn/base_cpp/read_bin/cmake-build-debug && "/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/cmake-build-debug && "/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -72,7 +72,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_untitled: phony || CMakeFiles/untitled.dir
 
-build CMakeFiles/untitled.dir/main.cpp.o: CXX_COMPILER__untitled_Debug /home/oem/Documents/cpp_project_learn/base_cpp/read_bin/main.cpp || cmake_object_order_depends_target_untitled
+build CMakeFiles/untitled.dir/main.cpp.o: CXX_COMPILER__untitled_Debug /home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/main.cpp || cmake_object_order_depends_target_untitled
   DEP_FILE = CMakeFiles/untitled.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/untitled.dir
@@ -106,7 +106,7 @@ build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/ma
 # =============================================================================
 
 #############################################
-# Folder: /home/oem/Documents/cpp_project_learn/base_cpp/read_bin/cmake-build-debug
+# Folder: /home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/cmake-build-debug
 
 build all: phony untitled
 

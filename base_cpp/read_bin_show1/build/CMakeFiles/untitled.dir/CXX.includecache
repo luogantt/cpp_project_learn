@@ -6,11 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/oem/Documents/cpp_project_learn/read_bin_show1/main.cpp
+/home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/main.cpp
 math.h
 -
 fstream
 -
 iostream
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+stdio.h
+-
+stdlib.h
+-
+sys/time.h
 -
 

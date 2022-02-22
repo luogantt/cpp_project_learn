@@ -11,6 +11,12 @@
 using namespace std;
 
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/time.h>
+
+
+
 
 
 //int  readBinFile(std::string& filename, void*& bufPtr, int& pointNum, int pointDim)
@@ -18,8 +24,10 @@ using namespace std;
 int main()
 {
     // open the file:
+    
+
     std::streampos fileSize;  //实例化fpos用于表示窄向流中的位置。
-    std::ifstream file("cloud.bin", std::ios::binary);
+    std::ifstream file("../cloud.bin", std::ios::binary);
 
 
 
@@ -43,19 +51,26 @@ int main()
 
 
 
-    int length=fileSize;
+    //int length=fileSize;
+    int length=30;
     double* f2 = new double[length];
-    std::ifstream ifs("cloud.bin", std::ios::binary | std::ios::in);
+    
+    struct timeval t_start, t_end;
+    gettimeofday(&t_start,NULL);
+    std::ifstream ifs("../cloud.bin", std::ios::binary | std::ios::in);
+    
+    gettimeofday(&t_end,NULL);
+    printf("cost time %ldus\n", t_end.tv_usec - t_start.tv_usec);
     ifs.read((char*)f2, sizeof(double) * length);
     ifs.close();
 
     cout<<f2<<endl;
-    /***
+
     for (int i = 0; i < length; i++)
     {
         std::cout<<f2[i]<<std::endl;
     }
-    ***/
+
     return 0;
 
     

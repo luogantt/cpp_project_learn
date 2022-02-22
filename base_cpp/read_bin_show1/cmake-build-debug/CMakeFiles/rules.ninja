@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__untitled_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" --regenerate-during-build -S/home/oem/Documents/cpp_project_learn/base_cpp/read_bin -B/home/oem/Documents/cpp_project_learn/base_cpp/read_bin/cmake-build-debug
+  command = "/home/oem/Desktop/clion /CLion-2021.3.3/clion-2021.3.3/bin/cmake/linux/bin/cmake" --regenerate-during-build -S/home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1 -B/home/oem/Documents/cpp_project_learn/base_cpp/read_bin_show1/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

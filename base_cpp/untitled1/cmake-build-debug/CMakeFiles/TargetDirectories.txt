@@ -1,0 +1,3 @@
+/home/oem/Documents/cpp_project_learn/base_cpp/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oem/Documents/cpp_project_learn/base_cpp/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oem/Documents/cpp_project_learn/base_cpp/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir

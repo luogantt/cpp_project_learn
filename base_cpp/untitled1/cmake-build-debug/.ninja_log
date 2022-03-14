@@ -1,0 +1,7 @@
+# ninja log v5
+837	878	1646968199239197083	CMakeFiles/untitled1.dir/cmake_device_link.o	50bbf7e5100bc87d
+0	837	1646968199199197303	CMakeFiles/untitled1.dir/main.cu.o	e32aa46e2845a4ba
+878	932	1646968199295196775	untitled1	59a02d2ca1adc2d8
+2	2899	1646971444684094831	CMakeFiles/untitled1.dir/main.cu.o	e32aa46e2845a4ba
+2899	3183	1646971444964093820	CMakeFiles/untitled1.dir/cmake_device_link.o	50bbf7e5100bc87d
+3183	3268	1646971445052093502	untitled1	59a02d2ca1adc2d8

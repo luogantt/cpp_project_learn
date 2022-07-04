@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ledi/ccc/2/6/c2/main.c
+stdio.h
+-
+testFunc.h
+/home/ledi/ccc/2/6/c2/testFunc.h
+
+/home/ledi/ccc/2/6/c2/testFunc.c
+stdio.h
+-
+testFunc.h
+/home/ledi/ccc/2/6/c2/testFunc.h
+
+/home/ledi/ccc/2/6/c2/testFunc.h
+
